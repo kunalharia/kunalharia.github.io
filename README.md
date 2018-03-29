@@ -1,4 +1,4 @@
-﻿# Kunal - MSc Statistics
+# Kunal - MSc Statistics
 
 Hope to add links here.
 
@@ -10,6 +10,7 @@ Notes:
 
 * GIT = version control tool
 * github = social code-hosting platform
+* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents
 
 ## Welcome to GitHub Pages
 
