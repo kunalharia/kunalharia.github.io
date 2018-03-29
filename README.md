@@ -10,7 +10,7 @@ Notes:
 
 * GIT = version control tool
 * github = social code-hosting platform
-* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents
+* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
 
 ## Welcome to GitHub Pages
 
