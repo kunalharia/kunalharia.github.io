@@ -1,3 +1,8 @@
+<br/>
+<p align="center">
+  <img src="http://i.imgur.com/L45Q8c2.jpg">
+</p>
+
 # Kunal - MSc Statistics
 
 Hope to add links here.
