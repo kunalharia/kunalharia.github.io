@@ -1,10 +1,16 @@
-# Kunal (MSc Statistics) Portfolio
+# Kunal's Portfolio
 
-This webpage contains links to "notebooks" for data analysis / exploration of ML algorithms
+* [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
+* [Chess](https://www.chess.com/member/kun-al)
+* [R Markdown Documents](http://www.rpubs.com/kunalharia)
+* [Twitter](https://twitter.com/KunalHaria10)
+* [LinkedIn](http://linkedin.com/in/kunal-haria)
+* [GitHub](https://github.com/kunalharia)
+* [Email](mailto:lanukairah@gmail.com)
 
-* [This repository on github](https://github.com/kunalharia/kunalharia.github.io)
-* [Open to CHESS challenges](https://www.chess.com/member/kun-al)
-* [Kunal's R Publishings](http://www.rpubs.com/kunalharia)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
+</p>
 
 ## Classification problems.
 
@@ -15,9 +21,7 @@ This webpage contains links to "notebooks" for data analysis / exploration of ML
 Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
 Titanic dataset provides interesting opportunities for feature engineering.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
-</p>
+
 
 ## Welcome to GitHub Pages
 
