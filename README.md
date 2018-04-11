@@ -1,4 +1,8 @@
 <br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
+</p>
+
 # Kunal - MSc Statistics
 
 Hope to add links here.
