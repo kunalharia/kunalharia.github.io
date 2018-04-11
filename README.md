@@ -17,6 +17,19 @@ Notes:
 * github = social code-hosting platform
 * RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
 
+# Data science portfolio
+
+"notebooks" for data analysis / exploration of ML algorithms
+
+## Classification problems.
+
+### Titanic: Machine Learning from Disaster
+
+[Github](https://github.com/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb)
+
+Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
+Titanic dataset provides interesting opportunities for feature engineering.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
