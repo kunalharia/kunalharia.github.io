@@ -1,69 +1,47 @@
 # Kunal's Portfolio
 
-* [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
+How to find me:
+
 * [Chess](https://www.chess.com/member/kun-al)
 * [R Markdown Documents](http://www.rpubs.com/kunalharia)
 * [Twitter](https://twitter.com/KunalHaria10)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
-* [Email](mailto:lanukairah@gmail.com)
+* [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
+
+What I studied:
+* [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
+
+**	Statistical computing (with R)
+**	Statistical models and data analysis
+**	Applied Bayesian methods
+**	Forecasting (with time series analysis)
+**	Decision and risk
+**	Statistical design of investigations
+**	Statistical inference
+**	Stochastic methods in finance (with Monte Carlo simulations)
+**	Dissertation: Rolling Markowitz approach to dynamic asset allocation
+
+When in Hong Kong, and you see a giant back pack:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
 </p>
 
-## Classification problems.
+GitHub Pages:
 
-### Titanic: Machine Learning from Disaster
+I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
-[Github](https://github.com/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb)
-
-Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
-Titanic dataset provides interesting opportunities for feature engineering.
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme [repository settings]
-see Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-help is available - see [documentation](https://help.github.com/categories/github-pages-basics/)
-
-Notes:
+Useful Notes:
 
 * GIT = version control tool
 * github = social code-hosting platform
 * RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
+
+## Classification problems.
+
+### Random Dataset
+
+[Github](https://github.com/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb)
+
+This was an exercise I tried to solve.
