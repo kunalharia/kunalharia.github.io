@@ -11,7 +11,6 @@ How to find me:
 
 What I studied:
 * [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
-
 **	Statistical computing (with R)
 **	Statistical models and data analysis
 **	Applied Bayesian methods
