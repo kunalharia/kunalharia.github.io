@@ -2,9 +2,9 @@
 
 This webpage contains links to "notebooks" for data analysis / exploration of ML algorithms
 
-* This repository: https://github.com/kunalharia/kunalharia.github.io
-* Open to challenges: https://www.chess.com/member/kun-al
-* http://www.rpubs.com/kunalharia
+* [This repository on github](https://github.com/kunalharia/kunalharia.github.io)
+* [Open to CHESS challenges](https://www.chess.com/member/kun-al)
+* [Kunal's R Publishings](http://www.rpubs.com/kunalharia)
 
 ## Classification problems.
 
