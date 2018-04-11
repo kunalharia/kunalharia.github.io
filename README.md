@@ -4,6 +4,7 @@ How to find me:
 
 * [Chess](https://www.chess.com/member/kun-al)
 * [R Markdown Documents](http://www.rpubs.com/kunalharia)
+    * helpful: https://rmarkdown.rstudio.com/html_document_format.html
 * [Twitter](https://twitter.com/KunalHaria10)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
@@ -36,6 +37,8 @@ Useful Notes:
 * GIT = version control tool
 * github = social code-hosting platform
 * RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
+
+
 
 ## Classification problems.
 
