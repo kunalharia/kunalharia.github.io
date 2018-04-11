@@ -1,20 +1,10 @@
-# Kunal - MSc Statistics
+# Kunal (MSc Statistics) Portfolio
 
-Hope to add links here.
+This webpage contains links to "notebooks" for data analysis / exploration of ML algorithms
 
-Open to challenges:
-
-https://www.chess.com/member/kun-al
-
-Notes:
-
-* GIT = version control tool
-* github = social code-hosting platform
-* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
-
-# Data science portfolio
-
-"notebooks" for data analysis / exploration of ML algorithms
+* This repository: https://github.com/kunalharia/kunalharia.github.io
+* Open to challenges: https://www.chess.com/member/kun-al
+* http://www.rpubs.com/kunalharia
 
 ## Classification problems.
 
@@ -67,3 +57,9 @@ see Jekyll `_config.yml` configuration file.
 ### Support or Contact
 
 help is available - see [documentation](https://help.github.com/categories/github-pages-basics/)
+
+Notes:
+
+* GIT = version control tool
+* github = social code-hosting platform
+* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
