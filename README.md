@@ -1,6 +1,8 @@
 # Kunal's Portfolio
 
-How to find me:
+I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
+
+**Who/Where Am I?:**
 
 * [Chess](https://www.chess.com/member/kun-al)
 * [R Markdown Documents](http://www.rpubs.com/kunalharia)
@@ -10,7 +12,7 @@ How to find me:
 * [GitHub](https://github.com/kunalharia)
 * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
 
-What I studied:
+**What I studied:**
 * [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
     *	Statistical computing (with R)
     *	Statistical models and data analysis
@@ -22,17 +24,13 @@ What I studied:
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
 
-When in Hong Kong, and you see a giant back pack:
+**When in Hong Kong, and you see a giant back pack:**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
 </p>
 
-GitHub Pages:
-
-I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
-
-Useful Notes:
+**Useful Notes:**
 
 * GIT = version control tool
 * github = social code-hosting platform
