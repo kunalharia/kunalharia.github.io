@@ -11,15 +11,15 @@ How to find me:
 
 What I studied:
 * [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
-**	Statistical computing (with R)
-**	Statistical models and data analysis
-**	Applied Bayesian methods
-**	Forecasting (with time series analysis)
-**	Decision and risk
-**	Statistical design of investigations
-**	Statistical inference
-**	Stochastic methods in finance (with Monte Carlo simulations)
-**	Dissertation: Rolling Markowitz approach to dynamic asset allocation
+    *	Statistical computing (with R)
+    *	Statistical models and data analysis
+    *	Applied Bayesian methods
+    *	Forecasting (with time series analysis)
+    *	Decision and risk
+    *	Statistical design of investigations
+    *	Statistical inference
+    *	Stochastic methods in finance (with Monte Carlo simulations)
+    *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
 
 When in Hong Kong, and you see a giant back pack:
 
