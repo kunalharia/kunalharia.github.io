@@ -6,10 +6,4 @@ navbar:
     href: index.html
   - text: About
     href: about.html
-output_dir: _site
-output:
-  html_document:
-    theme: yeti
-    lib_dir: site_libs
-    self_contained: no
-
+output_dir: .
