@@ -39,7 +39,9 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * github = social code-hosting platform
 * RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
 
+**Useful Podcasts:**
 
+* https://www.datacamp.com/community/podcast
 
 ## Classification problems.
 
