@@ -50,3 +50,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 [Github](https://github.com/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/kunalharia/kunalharia.github.io/blob/master/ipynb/StatusToday%20-%20binary%20classification%20task%20-%20by%20Kunal.ipynb)
 
 This was an exercise I tried to solve.
+
+**Useful links:**
+
+http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
