@@ -9,7 +9,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
     * helpful:
         * https://rmarkdown.rstudio.com/html_document_format.html
         * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
-    * **[cleaning data]**(http://rpubs.com/KunalHaria/378906)
+    * [cleaning data](http://rpubs.com/KunalHaria/378906)
 * [Twitter](https://twitter.com/KunalHaria10)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
