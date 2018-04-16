@@ -5,6 +5,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 **Who/Where Am I?:**
 
 * [Chess](https://www.chess.com/member/kun-al)
+* [tutoring in NW London](https://www.facebook.com/hariatutors)
 * [R Markdown Documents](http://www.rpubs.com/kunalharia)
     * helpful:
         * https://rmarkdown.rstudio.com/html_document_format.html
