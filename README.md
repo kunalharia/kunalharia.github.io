@@ -8,6 +8,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * [Tutoring in NW London](https://www.facebook.com/hariatutors)
 * [R Markdown Documents](http://www.rpubs.com/kunalharia)
     * helpful:
+        * https://rpubs.com/about/getting-started
         * https://rmarkdown.rstudio.com/html_document_format.html
         * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
     * [cleaning data](http://rpubs.com/KunalHaria/378906)
