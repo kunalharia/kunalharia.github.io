@@ -2,7 +2,7 @@
 
 I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
-**Who/Where Am I?:**
+**Who/Where Am I?**
 
 * [Chess](https://www.chess.com/member/kun-al)
 * [Tutoring in NW London](https://www.facebook.com/hariatutors)
@@ -16,10 +16,9 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * [Twitter](https://twitter.com/KunalHaria10)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
-* [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
+    * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
 
-**What I studied:**
-* [UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
+**[UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)**
     *	Statistical computing (with R)
     *	Statistical models and data analysis
     *	Applied Bayesian methods
@@ -57,3 +56,8 @@ This was an exercise I tried to solve.
 ## Useful links:
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
+
+<p align="center">
+  <img src="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png">
+</p>
+
