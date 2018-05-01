@@ -18,7 +18,9 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * [GitHub](https://github.com/kunalharia)
     * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
 
-**[UCL MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)**
+**UCL**
+
+* [MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
     *	Statistical computing (with R)
     *	Statistical models and data analysis
     *	Applied Bayesian methods
