@@ -55,7 +55,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 
 This was an exercise I tried to solve.
 
-## Useful links:
+## Useful links
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
 
@@ -63,15 +63,35 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
   <img src="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png">
 </p>
 
-## Useful stats links:
+## stats
 
-http://www.statsoft.com/Textbook/Multiple-Regression
-http://www.statsoft.com/Textbook/Cluster-Analysis
-https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
-https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
-https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+* http://www.statsoft.com/Textbook/Multiple-Regression
+* http://www.statsoft.com/Textbook/Cluster-Analysis
+* https://www.statmethods.net/advstats/matrix.html
+* https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
+* https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+* https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
-## Useful ML links:
-https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
-https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
-https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
+## R
+
+* http://www.rdatamining.com/
+
+## ML
+
+* https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+* https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
+* https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+## analyticsvidhya.com
+
+* https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+* https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+
+## PCA
+
+* https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+## iris
+
+* https://rstudio-pubs-static.s3.amazonaws.com/350823_01445440ccdd4f638f8a38ffb0519b7b.html
+* https://github.com/lwaldron/RBootcamp2015/blob/master/session_two/iris.Rmd
