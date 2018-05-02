@@ -63,3 +63,15 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
   <img src="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png">
 </p>
 
+## Useful stats links:
+
+http://www.statsoft.com/Textbook/Multiple-Regression
+http://www.statsoft.com/Textbook/Cluster-Analysis
+https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
+https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+## Useful ML links:
+https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
