@@ -81,6 +81,7 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 * https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 * https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
 * https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+* *https://github.com/waldronlab/waldronlab.github.io*
 
 ## analyticsvidhya.com
 
