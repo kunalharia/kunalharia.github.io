@@ -37,16 +37,14 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
   <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
 </p>
 
-**R Markdown Documents**
-    * Datacamp
-         * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
-         * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
-         * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
-         * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
-         * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
-         * [cleaning data](http://rpubs.com/KunalHaria/378906)
-
-
+## R Markdown Documents
+* Datacamp
+    * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
+    * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
+    * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
+    * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
+    * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
+    * [cleaning data](http://rpubs.com/KunalHaria/378906)
 
 **Useful Notes:**
 
