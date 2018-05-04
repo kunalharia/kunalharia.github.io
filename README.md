@@ -41,12 +41,13 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * Datacamp
     * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
     * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
-    * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
-    * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
-    * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
-    * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
-    * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
-    * [cleaning data](http://rpubs.com/KunalHaria/378906)
+    * intermediate
+        * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
+        * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
+        * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
+        * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
+        * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
+    * [7 - cleaning data](http://rpubs.com/KunalHaria/378906)
 
 **Useful Notes:**
 
