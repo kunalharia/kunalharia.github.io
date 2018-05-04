@@ -47,7 +47,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
         * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
         * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
         * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
-    * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/378906)
+    * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
 
 **Useful Notes:**
 
