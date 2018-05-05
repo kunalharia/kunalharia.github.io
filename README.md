@@ -20,7 +20,8 @@
     *	Statistical inference
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
-* [R Markdown Documents](http://www.rpubs.com/kunalharia)
+* [Shared R Markdown documents (RStudio) on RPubs](http://www.rpubs.com/kunalharia)
+
     * helpful:
         * https://rpubs.com/about/getting-started
         * https://rmarkdown.rstudio.com/html_document_format.html
