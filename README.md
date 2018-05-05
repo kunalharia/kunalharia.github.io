@@ -36,7 +36,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 * Datacamp
     * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
     * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
-    * 2 - intermediate
+    * 2 - intermediate:
         * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
         * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
         * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
@@ -44,7 +44,7 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
         * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
     * [3 - intermediate R - Practice - 0 - conditionals-and-control-flow](http://rpubs.com/KunalHaria/386239)
     * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
-    * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386238)
+    * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
 
 **When in Hong Kong, and you see a giant back pack:**
 
