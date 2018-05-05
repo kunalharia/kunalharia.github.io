@@ -1,26 +1,16 @@
 # Kunal's Portfolio
 
-I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
+*I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.*
 
 **Who/Where Am I?**
 
 * [Chess](https://www.chess.com/member/kun-al)
 * [Tutoring in NW London](https://www.facebook.com/hariatutors)
-* [R Markdown Documents](http://www.rpubs.com/kunalharia)
-    * helpful:
-        * https://rpubs.com/about/getting-started
-        * https://rmarkdown.rstudio.com/html_document_format.html
-        * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
-    * Datacamp
-        * [cleaning data](http://rpubs.com/KunalHaria/378906)
 * [Twitter](https://twitter.com/KunalHaria10)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
     * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
-
-**UCL**
-
-* [MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
+* [UCL: MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
     *	Statistical computing (with R)
     *	Statistical models and data analysis
     *	Applied Bayesian methods
@@ -30,21 +20,24 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
     *	Statistical inference
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
+* [R Markdown Documents](http://www.rpubs.com/kunalharia)
+    * helpful:
+        * https://rpubs.com/about/getting-started
+        * https://rmarkdown.rstudio.com/html_document_format.html
+        * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf 
 
-**R Markdown Documents**
- 
-* Datacamp
-    * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
-    * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
-    * 2 - intermediate:
-        * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
-        * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
-        * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
-        * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
-        * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
-    * [3 - intermediate R - Practice - 0 - conditionals-and-control-flow](http://rpubs.com/KunalHaria/386239)
-    * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
-    * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
+    * Datacamp
+        * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
+        * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
+        * 2 - intermediate:
+            * [intermediate - 0](http://rpubs.com/KunalHaria/386070)
+            * [intermediate - 1 - functions](http://rpubs.com/KunalHaria/386074)
+            * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
+            * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
+            * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
+        * [3 - intermediate R - Practice - 0 - conditionals-and-control-flow](http://rpubs.com/KunalHaria/386239)
+        * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
+        * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
 
 **When in Hong Kong, and you see a giant back pack:**
 
