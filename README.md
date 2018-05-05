@@ -31,13 +31,8 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
 
-**When in Hong Kong, and you see a giant back pack:**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
-</p>
-
-## R Markdown Documents
+**R Markdown Documents**
+ 
 * Datacamp
     * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
     * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
@@ -49,16 +44,13 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
         * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
     * [3 - intermediate R - Practice - 0 - conditionals-and-control-flow](http://rpubs.com/KunalHaria/386239)
     * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
+    * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386238)
 
-**Useful Notes:**
+**When in Hong Kong, and you see a giant back pack:**
 
-* GIT = version control tool
-* github = social code-hosting platform
-* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
-
-**Useful Podcasts:**
-
-* https://www.datacamp.com/community/podcast
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunalharia/kunalharia.github.io/master/images/HKJan2018.jpg">
+</p>
 
 ## Classification problems.
 
@@ -68,7 +60,19 @@ I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/
 
 This was an exercise I tried to solve.
 
-## Useful links
+## Random Useful Things
+
+**Notes:**
+
+* GIT = version control tool
+* github = social code-hosting platform
+* RStudio projects => multiple contexts, each with their own working directory, workspace, history, and source documents - test
+
+**Podcasts:**
+
+* https://www.datacamp.com/community/podcast
+
+## Bookmarks
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
 
@@ -76,7 +80,7 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
   <img src="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png">
 </p>
 
-## stats
+### stats
 
 * http://www.statsoft.com/Textbook/Multiple-Regression
 * http://www.statsoft.com/Textbook/Cluster-Analysis
@@ -85,27 +89,27 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 * https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
 * https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
-## R
+### R
 
 * http://www.rdatamining.com/
 
-## ML
+### ML
 
 * https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 * https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
 * https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
 * *https://github.com/waldronlab/waldronlab.github.io*
 
-## analyticsvidhya.com
+### analyticsvidhya.com
 
 * https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 * https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 
-## PCA
+### PCA
 
 * https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 
-## iris
+### iris
 
 * https://rstudio-pubs-static.s3.amazonaws.com/350823_01445440ccdd4f638f8a38ffb0519b7b.html
 * https://github.com/lwaldron/RBootcamp2015/blob/master/session_two/iris.Rmd
