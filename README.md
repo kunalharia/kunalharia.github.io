@@ -21,12 +21,6 @@
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
 * [Shared R Markdown documents (RStudio) on RPubs](http://www.rpubs.com/kunalharia)
-
-    * helpful:
-        * https://rpubs.com/about/getting-started
-        * https://rmarkdown.rstudio.com/html_document_format.html
-        * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf 
-
     * Datacamp
         * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
         * [1 - introduction to R](http://rpubs.com/KunalHaria/386063)
@@ -83,9 +77,16 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 * https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
 * https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
+* https://web.stanford.edu/~hastie/ElemStatLearn/
+* https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf
+
 ### R
 
 * http://www.rdatamining.com/
+* rpubs.com
+    * https://rpubs.com/about/getting-started
+    * https://rmarkdown.rstudio.com/html_document_format.html
+    * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf 
 
 ### ML
 
@@ -93,6 +94,11 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 * https://www.aunalytics.com/2015/01/30/decision-trees-an-overview/
 * https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
 * *https://github.com/waldronlab/waldronlab.github.io*
+
+### DS
+
+* https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
+
 
 ### analyticsvidhya.com
 
