@@ -7,6 +7,7 @@
 * [Chess](https://www.chess.com/member/kun-al)
 * [Tutoring in NW London](https://www.facebook.com/hariatutors)
 * [Twitter](https://twitter.com/KunalHaria10)
+* [Instagram](https://www.instagram.com/kunal.haria.10/)
 * [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
     * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
