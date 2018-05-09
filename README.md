@@ -41,7 +41,7 @@
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+:bowtie: `:bowtie:`
 
 **When in Hong Kong, and you see a giant back pack:**
 
