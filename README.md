@@ -32,7 +32,13 @@
             * [intermediate - 2 - packages](http://rpubs.com/KunalHaria/386078)
             * [intermediate - 3 - apply family](http://rpubs.com/KunalHaria/386082)
             * [intermediate - 4 - utilities](http://rpubs.com/KunalHaria/386083)
+  
         * [3 - intermediate R - Practice - 0 - conditionals-and-control-flow](http://rpubs.com/KunalHaria/386239)
+        * 4 - importing data:
+            * [1 - importing-data-from-flat-files-with-utils](http://rpubs.com/KunalHaria/387812)
+            * [2 - readr-datatable](http://rpubs.com/KunalHaria/387813)
+            * [3 - importing-excel-data](http://rpubs.com/KunalHaria/387816)
+            * 4 - XLConnect - fail :no_mouth
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
 
