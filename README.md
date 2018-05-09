@@ -38,10 +38,13 @@
             * [2 - readr-datatable](http://rpubs.com/KunalHaria/387813)
             * [3 - importing-excel-data](http://rpubs.com/KunalHaria/387816)
             * 4 - XLConnect - fail :no_mouth:
+        * 5 - importing data:
+            * [1 - importing-data-from-databases](http://rpubs.com/KunalHaria/387818)
+            * [2 - importing-data-from-statistical-software-packages](http://rpubs.com/KunalHaria/387821)
+            * [3 - importing-data-from-web](http://rpubs.com/KunalHaria/387825)
+        * [clean - explore - tidy - prepare](http://rpubs.com/KunalHaria/387826)
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
-
-:bowtie:
 
 **When in Hong Kong, and you see a giant back pack:**
 
