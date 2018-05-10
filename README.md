@@ -45,7 +45,7 @@
         * [clean - explore - tidy - prepare](http://rpubs.com/KunalHaria/387826)
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
-        * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/387937)
+        * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/387949)
 
 **When in Hong Kong, and you see a giant back pack:**
 
