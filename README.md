@@ -48,7 +48,7 @@
         * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/388358)
             * joining data with dplyr
                 * [Mutating joins and Filtering joins](http://rpubs.com/KunalHaria/388360)
-                * [Set operations](http://rpubs.com/KunalHaria/)
+                * [Set operations](http://rpubs.com/KunalHaria/388362)
                 * [Assembling data](http://rpubs.com/KunalHaria/)
                 * [Advanced joining](http://rpubs.com/KunalHaria/)
                 * [Case Study](http://rpubs.com/KunalHaria/)
