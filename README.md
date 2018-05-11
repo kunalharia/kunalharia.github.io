@@ -46,6 +46,12 @@
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
         * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/387949)
+            * joining data with dplyr
+                * [Mutating joins](http://rpubs.com/KunalHaria/)
+                * [Filtering joins and set operations](http://rpubs.com/KunalHaria/)
+                * [Assembling data](http://rpubs.com/KunalHaria/)
+                * [Advanced joining](http://rpubs.com/KunalHaria/)
+                * [Case Study](http://rpubs.com/KunalHaria/)
 
 **When in Hong Kong, and you see a giant back pack:**
 
