@@ -45,10 +45,10 @@
         * [clean - explore - tidy - prepare](http://rpubs.com/KunalHaria/387826)
         * [7 - importing-cleaning-data-in-r-case-studies](http://rpubs.com/KunalHaria/386238)
         * [8 - writing-functions-in-r](http://rpubs.com/KunalHaria/386247)
-        * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/387949)
+        * [9 - dplyr (data manipulation)](http://rpubs.com/KunalHaria/388358)
             * joining data with dplyr
-                * [Mutating joins](http://rpubs.com/KunalHaria/)
-                * [Filtering joins and set operations](http://rpubs.com/KunalHaria/)
+                * [Mutating joins and Filtering joins](http://rpubs.com/KunalHaria/388360)
+                * [Set operations](http://rpubs.com/KunalHaria/)
                 * [Assembling data](http://rpubs.com/KunalHaria/)
                 * [Advanced joining](http://rpubs.com/KunalHaria/)
                 * [Case Study](http://rpubs.com/KunalHaria/)
