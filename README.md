@@ -49,7 +49,7 @@
             * joining data with dplyr
                 * [Mutating joins and Filtering joins](http://rpubs.com/KunalHaria/388360)
                 * [Set operations](http://rpubs.com/KunalHaria/388362)
-                * [Assembling data](http://rpubs.com/KunalHaria/)
+                * [Assembling data](http://rpubs.com/KunalHaria/388569)
                 * [Advanced joining](http://rpubs.com/KunalHaria/)
                 * [Case Study](http://rpubs.com/KunalHaria/)
 
