@@ -106,6 +106,7 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
     * https://rpubs.com/about/getting-started
     * https://rmarkdown.rstudio.com/html_document_format.html
     * https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf 
+* time/date: https://rstudio-pubs-static.s3.amazonaws.com/28038_1bcb9aa80ca84f27ace07d612872861a.html
 
 ### ML
 
