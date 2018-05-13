@@ -118,6 +118,7 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 ### DS
 
 * https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
+* http://www.datasciencemadesimple.com/
 
 
 ### analyticsvidhya.com
