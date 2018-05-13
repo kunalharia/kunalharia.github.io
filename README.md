@@ -120,6 +120,11 @@ http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.pn
 * https://www.quora.com/What-algorithms-and-techniques-20-to-50-are-must-knows-for-a-junior-data-scientist
 * http://www.datasciencemadesimple.com/
 
+#### AB TESTING
+
+* https://eu.udacity.com/course/ab-testing--ud257
+* https://www.coursera.org/learn/real-life-data-science/lecture/LU8XW/a-b-testing
+
 
 ### analyticsvidhya.com
 
