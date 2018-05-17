@@ -50,8 +50,8 @@
                 * [Mutating joins and Filtering joins](http://rpubs.com/KunalHaria/388360)
                 * [Set operations](http://rpubs.com/KunalHaria/388362)
                 * [Assembling data](http://rpubs.com/KunalHaria/388569)
-                * [Advanced joining](http://rpubs.com/KunalHaria/)
-                * [Case Study](http://rpubs.com/KunalHaria/)
+                * [Advanced joining](http://rpubs.com/KunalHaria/390063)
+                * [Case Study](http://rpubs.com/KunalHaria/390062)
 
 **When in Hong Kong, and you see a giant back pack:**
 
