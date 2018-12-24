@@ -1,17 +1,11 @@
 # Kunal's Portfolio
 
-*I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files. test*
+*I use the [editor on GitHub](https://github.com/kunalharia/kunalharia.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.*
 
 **Who/Where Am I?**
 
-* [Chess](https://www.chess.com/member/kun-al)
-* [Tutoring in NW London](https://www.facebook.com/hariatutors)
-* [Twitter](https://twitter.com/KunalHaria10)
-* [Instagram](https://www.instagram.com/kunal.haria.10/)
-* [LinkedIn](http://linkedin.com/in/kunal-haria)
 * [GitHub](https://github.com/kunalharia)
     * [This Repository on Github](https://github.com/kunalharia/kunalharia.github.io)
-* [Kaggle](https://www.kaggle.com/kunalkaggle)
 * [UCL: MSc Statistics](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/statistics-msc)
     *	Statistical computing (with R)
     *	Statistical models and data analysis
@@ -22,6 +16,12 @@
     *	Statistical inference
     *	Stochastic methods in finance (with Monte Carlo simulations)
     *	Dissertation: Rolling Markowitz approach to dynamic asset allocation
+* [LinkedIn](http://linkedin.com/in/kunal-haria)
+* [Chess](https://www.chess.com/member/kun-al)
+* [Tutoring in NW London](https://www.facebook.com/hariatutors)
+* [Twitter](https://twitter.com/KunalHaria10)
+* [Instagram](https://www.instagram.com/kunal.haria.10/)
+* [Kaggle](https://www.kaggle.com/kunalkaggle)
 * [Shared R Markdown documents (RStudio) on RPubs](http://www.rpubs.com/kunalharia)
     * Datacamp
         * [0 - Updating R](http://rpubs.com/KunalHaria/386067)
