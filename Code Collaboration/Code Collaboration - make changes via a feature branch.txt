@@ -1,3 +1,6 @@
+d:
+cd D:\DATA\Hunt\CV\Data Science\kunalharia.github.io
+
 git pull origin master
 git checkout -b kunal-feature-branch
 -- Make changes in folder
@@ -5,7 +8,8 @@ git add .
 -- Sense check: git status
 git commit -m "adding files"
 git push origin kunal-feature-branch
--- enter username and password
+kunalharia
+-- enter password
 
 Go To github to compare/merge
   https://github.com/kunalharia/kunalharia.github.io/compare/master...kunal-feature-branch
