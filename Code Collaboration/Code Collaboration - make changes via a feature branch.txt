@@ -1,0 +1,25 @@
+git pull origin master
+git checkout -b kunal-feature-branch
+-- Make changes in folder
+git add .
+-- Sense check: git status
+git commit -m "adding files"
+git push origin kunal-feature-branch
+-- enter username and password
+
+Go To github to compare/merge
+  https://github.com/kunalharia/kunalharia.github.io/compare/master...kunal-feature-branch
+  <create pull request>
+  <create pull request> 
+  <merge pull request>
+  <confirm merge>
+  <delete branch>
+
+git pull origin master  
+-- Sense check: git branch -a
+git remote prune origin --dry-run
+git remote prune origin
+git checkout master
+git pull origin
+git branch -d kunal-feature-branch 
+-- Sense check: git branch -a
