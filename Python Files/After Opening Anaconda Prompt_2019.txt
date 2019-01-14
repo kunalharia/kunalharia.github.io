@@ -1,0 +1,4 @@
+d:
+cd D:\DATA\Hunt\CV\Data Science\kunalharia.github.io\Python Files
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+
