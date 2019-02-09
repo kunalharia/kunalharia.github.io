@@ -1,0 +1,11 @@
+d:
+cd D:\DATA\Hunt\CV\Data Science\kunalharia.github.io
+git pull origin master
+-- Make changes in folder
+git add .
+git status
+
+
+git commit -m "adding python files"
+git push origin master
+git pull origin master
